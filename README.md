@@ -1,12 +1,12 @@
-# Olá, sou Matheus
+# Olá, Eu sou Matheus                                                                                            ## Contato
   
-  - Análise e Desenvolvimento de Sistemas;
-  - 28 anos;
+  - Análise e Desenvolvimento de Sistemas;                                                                          - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-felicori-6117a113a/)
+  - 28 anos;                                                                                                        - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.felicori@hotmail.com)                                                                                              
   - Desenvolvedor web full stack;
 
-## Contato
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-felicori-6117a113a/)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.felicori@hotmail.com)
+
+
+  - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.felicori@hotmail.com)
 
 ## Tools
 
