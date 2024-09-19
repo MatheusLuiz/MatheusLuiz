@@ -4,7 +4,7 @@
   - 28 anos;                                                                                        
   - Desenvolvedor web full stack;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Matheus Luiz GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 ## Tools
 
