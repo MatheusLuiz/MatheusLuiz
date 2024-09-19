@@ -2,7 +2,7 @@
   
   - Análise e Desenvolvimento de Sistemas;                                                                        
   - 28 anos;                                                                                        
-  - Desenvolvedor web full stack;
+  - Desenvolvedor Web Full Stack;
 
 ![Matheus Luiz GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 ## Tools
