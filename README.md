@@ -1,6 +1,6 @@
 # Olá, Eu sou Matheus                                                                                          
   
-  - Análise e Desenvolvimento de Sistemas;                                                                        
+  - Cursando Análise e Desenvolvimento de Sistemas;                                                                        
   - 28 anos;                                                                                        
   - Desenvolvedor Web Full Stack;
 
