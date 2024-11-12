@@ -3,10 +3,6 @@
   - Cursando Análise e Desenvolvimento de Sistemas;                                                                        
   - 28 anos;                                                                                        
   - Desenvolvedor Web Full Stack;
-
-![Matheus Luiz GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-## Tools
-
 ### Frontend
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
