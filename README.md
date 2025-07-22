@@ -19,7 +19,7 @@
 
 
 ### 📌 Projetos em destaque:
-
+- 🔹 **[Projeto de Licitações](https://github.com/MatheusLuiz/Licite-Aqui)** - API back-end desenvolvida em Node.js, usando html, css e javascript no front-end.  
 ---
 
 ### 🚀 Tecnologias que utilizo:
