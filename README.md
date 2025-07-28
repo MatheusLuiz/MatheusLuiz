@@ -1,7 +1,6 @@
 ## 👋 Olá, eu sou **Matheus Luiz**! 👋 
 
  Sou um desenvolvedor apaixonado por tecnologia, especializado em Node.js e JavaScript. Atualmente, sou formado em Análise e Desenvolvimento de Sistemas e tenho experiência em diversas linguagens e ferramentas.
- ---
 
 <div style="display: flex; justify-content: space-between; gap: 2%;">
   <img 
