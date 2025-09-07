@@ -19,7 +19,7 @@ Sou um desenvolvedor apaixonado por tecnologia e movido por desafios. Tenho form
 
 ### 📌 Projetos em destaque
 
-- 🔹 **[Licite Aqui](https://github.com/MatheusLuiz/Licite-Aqui)**  
+- 🔹 **[ Projeto Licite Aqui](https://github.com/MatheusLuiz/Licite-Aqui)**  
   API back-end desenvolvida em **Node.js**, com front-end em **HTML**, **CSS** e **JavaScript**.
 
 - 🔹 **[Projeto de HelpDesk]()**  
