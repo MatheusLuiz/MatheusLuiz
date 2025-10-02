@@ -24,7 +24,7 @@ Gosto de transformar ideias em soluções práticas através de **projetos reais
 
 ### 🚀 Projetos em destaque
 
-- 🔹 **[Licite Aqui](https://github.com/MatheusLuiz/Licite-Aqui)**  
+- 🔹 **[Licite Aqui](https://github.com/MatheusLuiz/Licite-Aqui)**  *(em atualização)*
   Sistema de gerenciamento de Licitações
 
 - 🔹 **[HelpDesk](https://github.com/MatheusLuiz/HelpDesk)** *(em desenvolvimento)*  
