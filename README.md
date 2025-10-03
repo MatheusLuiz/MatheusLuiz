@@ -24,15 +24,6 @@ Gosto de transformar ideias em soluções práticas através de **projetos reais
 
 ### 🚀 Projetos em destaque
 
-- 🔹 **[Licite Aqui](https://github.com/MatheusLuiz/Licite-Aqui)**  *(em atualização)*
-  Sistema de gerenciamento de Licitações
-
-- 🔹 **[HelpDesk](https://github.com/MatheusLuiz/HelpDesk)** *(em desenvolvimento)*  
-  Sistema de suporte técnico com abertura e acompanhamento de chamados.  
-
-- 🔹 **[NexHome](https://github.com/MatheusLuiz/NexHome)** *(em desenvolvimento)*  
-  Plataforma de automação residencial com integração IoT e gerenciamento remoto.  
-
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
