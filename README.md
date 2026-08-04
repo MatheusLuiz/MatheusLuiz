@@ -32,8 +32,8 @@ Atualmente cursando Pós-Graduação pela Anhanguera Educacional e sempre em bus
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusLuiz&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=006400&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Luiz GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLuiz&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=MatheusLuiz&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=006400&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Luiz GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=MatheusLuiz&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais usadas" height="150" />
 </p>
 
 ### 🚀 Projetos em destaque
