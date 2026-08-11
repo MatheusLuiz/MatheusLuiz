@@ -38,7 +38,6 @@ Atualmente cursando Pós-Graduação pela Anhanguera Educacional e sempre em bus
 
 ### 🚀 Projetos em destaque
 
-- **[portf-lio](https://github.com/MatheusLuiz/portf-lio)** — Meu portfólio pessoal.
 - **[DB-Script](https://github.com/MatheusLuiz/DB-Script)** — Scripts para automação/manutenção de banco de dados.
 - **ancorex** (privado) — Novo projeto em desenvolvimento 🚧
 
