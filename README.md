@@ -14,7 +14,7 @@ Sou Desenvolvedor Full Stack com experiência em desenvolvimento de aplicações
 
 Minha trajetória em Tecnologia da Informação também inclui experiência em infraestrutura e segurança, com atuação em Microsoft 365, Microsoft Intune e Microsoft Entra ID (Azure AD). Essa experiência proporciona uma visão mais ampla sobre desenvolvimento, integração, segurança e operação de aplicações em ambientes corporativos.
 
-Atualmente curso pós-graduação em Redes de Computadores, após concluir a pós-graduação em Desenvolvimento Web.
+Atualmente sou formado em análise e Desenvolvimento de Sistemas com pós-graduação em Desenvolvimento Web.
 
 🛠️ Tecnologias e Ferramentas
 
