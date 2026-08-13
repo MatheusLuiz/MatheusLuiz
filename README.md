@@ -35,11 +35,9 @@ Microsoft e infraestrutura: Microsoft Azure · Microsoft 365 · Microsoft Intune
 
 🚀 Projetos em destaque
 
-DB-Script — Scripts para automação e manutenção de banco de dados.
+- **[Ancorex](https://github.com/MatheusLuiz/ancorex)** — Software próprio para gestão de processos de **Comércio Exterior (COMEX)**, desenvolvido com **Node.js, Next.js, TypeScript, React e MySQL**, envolvendo desenvolvimento de frontend, backend, APIs, integração de dados e gerenciamento de informações.
 
-Ancorex (privado) — Software próprio para gestão de processos de Comércio Exterior (COMEX), desenvolvido com Node.js, Next.js, TypeScript, React e MySQL, envolvendo desenvolvimento de frontend, backend, APIs, integração de dados e gerenciamento de informações.
-
-Ferramenta ITSM Interna (privado) — Plataforma ITSM desenvolvida com Node.js, TypeScript, Vite e MySQL para abertura, triagem, acompanhamento e resolução de chamados. A solução substituiu uma ferramenta de terceiros e é utilizada em ambiente corporativo.
+- **[ITSM — StarDesk](https://github.com/MatheusLuiz/ITSM-StarDesk)** — Plataforma ITSM desenvolvida com **Node.js, TypeScript, Vite e MySQL** para abertura, triagem, acompanhamento e resolução de chamados. A solução substituiu uma ferramenta de terceiros e é utilizada em ambiente corporativo.
 
 📊 Estatísticas do GitHub
 
