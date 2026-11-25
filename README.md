@@ -39,6 +39,8 @@ Microsoft e infraestrutura: Microsoft Azure · Microsoft 365 · Microsoft Intune
 
 - **[ITSM — StarDesk](https://github.com/MatheusLuiz/ITSM-StarDesk)** — Plataforma ITSM desenvolvida com **Node.js, TypeScript, Vite e MySQL** para abertura, triagem, acompanhamento e resolução de chamados. A solução substituiu uma ferramenta de terceiros e é utilizada em ambiente corporativo.
 
+- **[Minha Corretora](https://github.com/MatheusLuiz/MinhaCorretora)** — Plataforma de uma corretora de seguros desenvolvida com **Node.js, TypeScript, React e PostgreSQL · Prisma 7 (schema e migrations)** para abertura, triagem, acompanhamento de seguros. A solução substituiu uma ferramenta de terceiros e é utilizada em diversos ambiente.
+- 
 📊 Estatísticas do GitHub
 
 <p align="center">
